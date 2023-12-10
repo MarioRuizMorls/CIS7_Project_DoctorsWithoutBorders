@@ -8,5 +8,5 @@ Programming approach: The project was reasonably straightforward, asking the use
 
 Published: Dec 10, 2023
 
-Instructions: Inside CIS7-Project file contains the main file for the program. To use our program, you simply run the program, and it will display a catalog of all the countries, languages, and specialties. Then answer the questions asked by the console and wait for it to calculate your country's probability for all the countries in Doctors without Borders.
+Instructions: Inside CIS7-Project file contains the main file for the program. To use our program, you simply run the program, and it will display a catalog of all the countries, languages, and specialties. The program then asks the user questions regarding their preferences and skills, and it calculates your country's probability for all the countries in Doctors without Borders using the user input.
 
